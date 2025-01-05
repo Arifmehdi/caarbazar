@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://phplaravel-1194462-4226380.cloudwaysapps.com/sitemap.xml
+
+Disallow:/admin/login
+Disallow:/best-used-cars-for-sale/listing
+Disallow:/favourite/listing
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-419.000000, -304.000000)" fill="#1977F2" fill-rule="nonzero">
+            <g id="Button/Light-Theme/Secondary/Medium" transform="translate(419.000000, 211.000000)">
+                <g id="Cancel-Button">
+                    <g id="facebook" transform="translate(0.000000, 93.000000)">
+                        <path d="M12,0 C5.373,0 0,5.373 0,12 C0,18.016 4.432,22.984 10.206,23.852 L10.206,15.18 L7.237,15.18 L7.237,12.026 L10.206,12.026 L10.206,9.927 C10.206,6.452 11.899,4.927 14.787,4.927 C16.17,4.927 16.902,5.03 17.248,5.076 L17.248,7.829 L15.278,7.829 C14.052,7.829 13.624,8.992 13.624,10.302 L13.624,12.026 L17.217,12.026 L16.73,15.18 L13.624,15.18 L13.624,23.877 C19.481,23.083 24,18.075 24,12 C24,5.373 18.627,0 12,0 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

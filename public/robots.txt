@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.bestdreamcar.com/sitemap.xml
+
+Disallow:/admin/login
+Disallow:/best-used-cars-for-sale/listing
+Disallow:/favorite/listing
+
